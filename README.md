@@ -6,5 +6,5 @@ This implementation includes interactive visualization and prediction functional
 Data used here is from [Jeff Sackmann's github](https://github.com/JeffSackmann/tennis_atp).
 
 <p align="center">
-    <img width="500" height="350" src="/assets/tennis-3/big4.png">
+    <img width="500" height="350" src="big4.png">
 </p>
